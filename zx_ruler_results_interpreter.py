@@ -1,8 +1,8 @@
 """
 This module defines function to interpret the ZX result
 CEK
-Created: 31.07.2023
-Last modify: 01.09.2023
+Created: 09.07.2024
+Last modify: 09.07.2024
 """
 
 
